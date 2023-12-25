@@ -1,0 +1,70 @@
+{
+  "name": "Wagner A. Leodoro",
+  "photo": "https://avatars.githubusercontent.com/u/72037528?v=4",
+  "job": "Instrutor Senac PR",
+  "location": "Paranaguá - PR",
+  "phone": "(41) 984683680",
+  "email": "wagner.augustoleodoro@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "CSS",
+        "logo": ""
+      },
+      {
+        "name": "HTML",
+        "logo": ""
+      },
+      {
+        "name": "JavaScript",
+        "logo": ""
+      },
+      {
+        "name": "NodeJs",
+        "logo": ""
+      },
+      {
+        "name": "React",
+        "logo": ""
+      },
+      {
+        "name": "C#",
+        "logo": ""
+      },
+      {
+        "name": "TypeScript",
+        "logo": ""
+      }
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Comunicação",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermdiário)",
+    "Espanhol (intermdiário)"
+  ],
+  "portfolio": [
+    {
+      "name": "",
+      "url": ""
+    },
+    {
+      "name": "",
+      "url": ""
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "",
+      "period": "",
+      "description": ""
+    }
+  ]
+}
