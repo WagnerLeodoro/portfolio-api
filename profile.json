@@ -9,31 +9,27 @@
     "hardSkills": [
       {
         "name": "CSS",
-        "logo": ""
+        "logo": "https://github.com/WagnerLeodoro/portfolio-api/blob/main/imgs/css.png"
       },
       {
         "name": "HTML",
-        "logo": ""
+        "logo": "https://github.com/WagnerLeodoro/portfolio-api/blob/main/imgs/html.png"
       },
       {
         "name": "JavaScript",
-        "logo": ""
+        "logo": "https://github.com/WagnerLeodoro/portfolio-api/blob/main/imgs/js.png"
       },
       {
         "name": "NodeJs",
-        "logo": ""
+        "logo": "https://github.com/WagnerLeodoro/portfolio-api/blob/main/imgs/nodejs.png"
       },
       {
         "name": "React",
-        "logo": ""
+        "logo": "https://github.com/WagnerLeodoro/portfolio-api/blob/main/imgs/react.png"
       },
       {
         "name": "C#",
-        "logo": ""
-      },
-      {
-        "name": "TypeScript",
-        "logo": ""
+        "logo": "https://github.com/WagnerLeodoro/portfolio-api/blob/main/imgs/csharp.png"
       }
     ],
     "softSkills": [
@@ -52,19 +48,31 @@
   ],
   "portfolio": [
     {
-      "name": "",
-      "url": ""
+      "name": "Poke Api",
+      "url": "https://github.com/WagnerLeodoro/PokeApi"
     },
     {
-      "name": "",
-      "url": ""
+      "name": "Biscoito da Sorte",
+      "url": "https://github.com/WagnerLeodoro/biscoitoDaSorte"
+    },
+    {
+      "name": "Imobiliária",
+      "url": "https://github.com/WagnerLeodoro/imobiliaria"
+    },
+    {
+      "name": "HotSite - Projeto Vida Saudável",
+      "url": "https://github.com/WagnerLeodoro/HotSite-VidaSaudavel"
+    },
+    {
+      "name": "Todo List",
+      "url": "https://github.com/WagnerLeodoro/to-do-list"
     }
   ],
   "professionalExperience": [
     {
-      "name": "",
-      "period": "",
-      "description": ""
+      "name": "Instrutor TI Senac-PR",
+      "period": "2018 - current",
+      "description": "Instrutor profissional nos cursos de informática e programador."
     }
   ]
 }
