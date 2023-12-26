@@ -10,27 +10,27 @@
     "hardSkills": [
       {
         "name": "CSS",
-        "logo": "https://github.com/WagnerLeodoro/portfolio-api/blob/main/imgs/css.png"
+        "logo": "https://raw.githubusercontent.com/WagnerLeodoro/portfolio-api/main/imgs/css.png"
       },
       {
         "name": "HTML",
-        "logo": "https://github.com/WagnerLeodoro/portfolio-api/blob/main/imgs/html.png"
+        "logo": "https://raw.githubusercontent.com/WagnerLeodoro/portfolio-api/main/imgs/html.png"
       },
       {
         "name": "JavaScript",
-        "logo": "https://github.com/WagnerLeodoro/portfolio-api/blob/main/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/WagnerLeodoro/portfolio-api/main/imgs/js.png"
       },
       {
         "name": "NodeJs",
-        "logo": "https://github.com/WagnerLeodoro/portfolio-api/blob/main/imgs/nodejs.png"
+        "logo": "https://raw.githubusercontent.com/WagnerLeodoro/portfolio-api/main/imgs/nodejs.png"
       },
       {
         "name": "React",
-        "logo": "https://github.com/WagnerLeodoro/portfolio-api/blob/main/imgs/react.png"
+        "logo": "https://raw.githubusercontent.com/WagnerLeodoro/portfolio-api/main/imgs/react.png"
       },
       {
         "name": "C#",
-        "logo": "https://github.com/WagnerLeodoro/portfolio-api/blob/main/imgs/csharp.png"
+        "logo": "https://raw.githubusercontent.com/WagnerLeodoro/portfolio-api/main/imgs/csharp.png"
       }
     ],
     "softSkills": [
